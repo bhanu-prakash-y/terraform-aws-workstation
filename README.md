@@ -122,7 +122,7 @@ This will:
 
 ## AMI
 
-Uses the latest `Redhat-9-DevOps-Practice` AMI owned by account `973714476881`, filtered for EBS-backed HVM virtualization.
+Uses the latest `Redhat-9-DevOps-Practice` AMI  filtered for EBS-backed HVM virtualization.
 
 ---
 
